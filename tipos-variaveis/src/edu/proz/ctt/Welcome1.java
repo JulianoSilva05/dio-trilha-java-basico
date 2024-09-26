@@ -1,6 +1,5 @@
 package edu.proz.ctt;// Figura 2.1: Welcome1.java
 // Programa de impressão de
-
 public class Welcome1 
 {
     // método main inicia a

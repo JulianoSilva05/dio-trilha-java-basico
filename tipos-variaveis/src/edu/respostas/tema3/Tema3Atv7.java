@@ -8,7 +8,7 @@ public class Tema3Atv7{
         System.out.println("Digite uma string:");
         String texto = scanner.nextLine();
         
-        if (!texto.isEmpty() && texto.charAt(texto.length() - 1) == '.') {
+        if (texto.charAt(texto.length() - 1) == '.') {
             System.out.println("O último caractere é um ponto.");
         } else {
             System.out.println("O último caractere não é um ponto.");

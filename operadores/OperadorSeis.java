@@ -1,6 +1,6 @@
 public class OperadorSeis {
     public static void main(String[] args) {
-        //Operadores lógicos
+        //Operadores atitmeticos
         // == compara dois valores
         // != Diferente
         // > Maior

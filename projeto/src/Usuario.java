@@ -13,9 +13,11 @@ public class Usuario {
 
         minhaTv.informacoes();
         minhaTv.ligar();
-        minhaTv.aumentarVolume(200);
+        minhaTv.aumentarVolume();
         minhaTv.canal(12);
-        minhaTv.diminuirVolume(250);
+        minhaTv.diminuirVolume();
+        minhaTv.diminuirVolume();
+        minhaTv.diminuirVolume();
 
         minhaTv.informacoes();
     }

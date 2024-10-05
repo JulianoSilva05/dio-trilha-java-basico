@@ -19,14 +19,14 @@ public class SmartTv {
     public void desligar(){
         boolean ligada = false;
     }
-    public void aumentarVolume(int vol){
-        volume += vol;
+    public void aumentarVolume(){
+        volume ++;
         if (volume >=100){
             volume = 100;
         }
     }
-    public void diminuirVolume(int vol){
-        volume -= vol;
+    public void diminuirVolume(){
+        volume --;
         if (volume <= 0){
             volume = 0;
         }

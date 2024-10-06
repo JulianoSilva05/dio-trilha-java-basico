@@ -1,6 +1,10 @@
 public class Usuario {
     public static void main(String[] args) throws Exception {
-        
+        /**
+         * Abaixo estamos criando um objeto
+         * @param minhaTv, da classe
+         * @param SmartTv.
+         */
         SmartTv minhaTv = new SmartTv();
         
         System.out.println("TV Ligada? : "+minhaTv.ligada);

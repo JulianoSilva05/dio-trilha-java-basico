@@ -2,7 +2,15 @@ public class SmartTv {
     boolean ligada = false;
     int canal = 1;
     int volume = 25;
-
+/**
+ * Este metodo fornesse informações sobre o metodo como:
+ * Se a tv está ligada ou desligada com o parametro
+ * @param ligada
+ * Qual o canal atual com o parametro
+ * @param canal
+ * e o volume da TV, com o parametro 
+ * @param volume
+ */
     public void informacoes() {
         System.out.println("TV Ligada? : " + ligada);
         System.out.println("Canal Atual? : " + canal);

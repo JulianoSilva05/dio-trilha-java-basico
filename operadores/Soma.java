@@ -1,6 +1,10 @@
 public class Soma {
     
-    // Método que soma dois inteiros
+    /**
+     * Este metodo soma dois numeros passador por
+     * @param a primeiro parametro, deve ser um numero inteiros
+     * @param b segundo parametro, deve ser um numero inteiro
+     */
     public static int somar(int a, int b) {
         // Realiza a soma dos dois números
         int resultado = a + b;

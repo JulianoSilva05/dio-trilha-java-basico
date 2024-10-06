@@ -1,5 +1,8 @@
 public class Usuario {
     public static void main(String[] args) throws Exception {
+        Info.Informacoes();
+        
+        
         /**
          * Abaixo estamos criando um objeto
          * @param minhaTv, da classe

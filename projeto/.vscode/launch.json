@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Teste",
+            "request": "launch",
+            "mainClass": "Teste",
+            "projectName": "projeto_c5087d1f"
+        },
+        {
             "name": "Java",
             "type": "java",
             "request": "launch",
@@ -50,7 +57,6 @@
                 "Proz Educação"
             ]
         }
-        
     ]
     
 }
